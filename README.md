@@ -5,11 +5,8 @@ Along the way I learned about: DLL injection, trampolining, and basic windows pr
 I never fully completed the bot, but in its current state it was capable of:
 
 1) Logging in
-
 2) Getting a list of tables
-
 3) Join a table with players but that is not full
-
 4) Click on betting buttons
 
 
