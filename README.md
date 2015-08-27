@@ -5,7 +5,7 @@ Along the way I learned about: DLL injection, trampolining, and basic windows pr
 I never fully completed the bot, but in its current state it was capable of:<br>
 1) Logging in<br>
 2) Getting a list of tables<br>
-3) Join a table with players but that is not full<br>
+3) Join a table with players, but that is not full<br>
 4) Click on betting buttons<br>
 
 But I never got around to writing the actual betting logic.  Eventually, I learned that Poker Stars
