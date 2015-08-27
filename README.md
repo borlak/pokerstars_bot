@@ -3,10 +3,16 @@ poker bot.  I chose Poker Stars as my first target and began my quest on the cre
 Along the way I learned about: DLL injection, trampolining, and basic windows programming.
 
 I never fully completed the bot, but in its current state it was capable of:
+
 1) Logging in
+
 2) Getting a list of tables
+
 3) Join a table with players but that is not full
+
 4) Click on betting buttons
+
+
 
 But I never got around to writing the actual betting logic.  Eventually, I learned that Poker Stars
 started fighting back against botters like this one that used DLL injection, by renaming their 
